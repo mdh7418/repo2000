@@ -37,6 +37,8 @@ public class HomeController {
 		
 		System.out.println("2. Branch Test1");
 		
+		System.out.println("3. Master Branch2");
+		
 		return "home";
 	}
 	
